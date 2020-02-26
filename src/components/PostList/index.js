@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-
 import Post from "../Post/index";
-
-import "./styles.js";
 import { Root } from "./styles.js";
+
+
 
 class PostList extends Component {
   state = {
